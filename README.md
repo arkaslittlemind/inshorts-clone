@@ -1,3 +1,4 @@
+![landing page inshorts](https://user-images.githubusercontent.com/73486782/120302236-512def00-c2eb-11eb-9bf1-2be29e0a7f28.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
